@@ -7,13 +7,7 @@ body {
 html {
     font-size:100%; 
 }
-/*
-#add-row {
-    padding: 5px;
-    margin: 30px;
-    height: 3%;
-    width: 33%;
-}*/
+
 table {
     background-color: white;
     margin: 30px;
